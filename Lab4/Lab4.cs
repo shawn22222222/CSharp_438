@@ -80,6 +80,5 @@
                 new Game(new SuperAI()).Run();
             }
         }
-
     }
 
